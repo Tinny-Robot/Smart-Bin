@@ -40,8 +40,8 @@ int angle;
 bool is_opened = false;
 
 
-const char* ssid = "Airtel 4G MiFi_E467";//"Olawalekaybee";
-const char* password = "50548814";//"olawale3";
+const char* ssid = "Wifi Nmae";
+const char* password = "Wifi Password";
 
 String GOOGLE_SCRIPT_ID = "AKfycbzPTJ-E-RcVCQbwqdr0tpOUJdlNX8UqfrGCry30usmtYdPjhGEtkh_JIdlKu_EvKPt6";  //"AKfycbx_PxkSe37CGVOeNZaI5ebxprMfyFMDa320O6plZ_RkQjEETTHy8DFhIegPz9anbXwc";
 
